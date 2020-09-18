@@ -1,4 +1,4 @@
-# TSF-GRIP
+# The Sparks Foundation - Graduate Rotational Internship Programme
 Data Science and Analytics Internship Tasks  
 
 ## Task_2 : To explore Supervised Machine Learning using Linear Regression Model.
